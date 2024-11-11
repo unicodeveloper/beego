@@ -10,7 +10,7 @@ tags:
 
 This example starts a Beego app connected to a Postgres database.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/dTvvSf)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/CPq9Ry)
 
 ## ✨ Features
 
